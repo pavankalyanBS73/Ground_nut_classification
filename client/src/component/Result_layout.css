@@ -1,0 +1,7 @@
+.result_layout{
+    height: 25rem;
+    width: 35rem;
+    background-color: rgb(87, 94, 94);
+    border-radius: 12px;
+    color: white;
+}

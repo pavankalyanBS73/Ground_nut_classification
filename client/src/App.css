@@ -1,0 +1,23 @@
+*{
+  background-color: rgb(48, 48, 162);
+  margin: 0px;
+  padding: 0px;
+}
+
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.background{
+  width: 90%;
+  height: 90%;
+  background-color: rgb(204, 205, 245);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

@@ -1,0 +1,19 @@
+.container{
+    height: 25rem;
+    width: 35rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+    border-style: dashed;
+    background-color: rgb(204, 205, 245);
+    border-radius: 12px;
+}
+
+.container > .button_upload{
+    color: white;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px ;
+}
